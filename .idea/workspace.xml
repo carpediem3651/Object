@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="61f5ef00-1ea6-4472-ae70-e9e019e79ee8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson1/class1/Audience.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson1/class1/Invitation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson1/class1/Theater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson1/class1/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson1/class1/TicketOffice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson1/class1/TicketSeller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson1/class2/Audience.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson1/class2/DiscountCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson1/class2/DiscountPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson1/class2/Invitation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson1/class2/SequenceAmountDiscount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson1/class2/SequenceDiscount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson1/class2/Theater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson1/class2/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson1/class2/TicketOffice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson1/class2/TicketSeller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson1/class4/BackEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson1/class4/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson1/class4/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson1/class4/FrontEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson1/class4/Paper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson1/class4/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson1/class4/ServerClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class6/combination/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class6/combination/NightDiscount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class6/combination/Plan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class6/combination/PricePerTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class6/decorator/ver1/AmountDiscount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class6/decorator/ver1/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class6/decorator/ver1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class6/decorator/ver1/NightDiscount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class6/decorator/ver1/Plan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class6/decorator/ver1/PricePerTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class6/decorator/ver1/Tex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class6/decorator/ver2/AmountDiscount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class6/decorator/ver2/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class6/decorator/ver2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class6/decorator/ver2/NightDiscount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class6/decorator/ver2/Plan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class6/decorator/ver2/PricePerTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class6/decorator/ver2/Tex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class6/decorator/ver3/AmountDiscount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class6/decorator/ver3/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class6/decorator/ver3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class6/decorator/ver3/NightDiscount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class6/decorator/ver3/Plan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class6/decorator/ver3/PricePerTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class6/decorator/ver3/Tex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class6/extend/NightDiscount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class6/extend/Plan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class6/extend/PricePerTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class7/Contract/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class7/Contract/Plan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class7/Contract/PricePerTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class8/CompositePatternAndVisitor/CompositeSortType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class8/CompositePatternAndVisitor/CompositeTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class8/CompositePatternAndVisitor/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class8/CompositePatternAndVisitor/Renderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class8/CompositePatternAndVisitor/SortType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class8/CompositePatternAndVisitor/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class8/CompositePatternAndVisitor/TaskReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class8/CompositePatternAndVisitor/Tasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class8/CompositePatternAndVisitor/Visitor.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2o8ln24fLPNo6gqoxviHlS209RG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Study/Java/Object",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="class8.CompositePattern" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Study\Java\Object\src\class6\decorator\ver3" />
+      <recent name="C:\Study\Java\Object\src\class6\ver2" />
+      <recent name="C:\Study\Java\Object\src\class2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="class7.Contract" />
+      <recent name="class6.decorator.ver2" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61f5ef00-1ea6-4472-ae70-e9e019e79ee8" name="Changes" comment="" />
+      <created>1730259248325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730259248325</updated>
+      <workItem from="1730259249362" duration="772000" />
+      <workItem from="1730271454642" duration="30000" />
+      <workItem from="1730770459944" duration="2201000" />
+      <workItem from="1730796303550" duration="471000" />
+      <workItem from="1730857397194" duration="78000" />
+      <workItem from="1733103926212" duration="7623000" />
+      <workItem from="1733186117851" duration="594000" />
+      <workItem from="1733202786117" duration="7732000" />
+      <workItem from="1733273795075" duration="9259000" />
+      <workItem from="1733358219251" duration="108000" />
+      <workItem from="1733378024273" duration="8685000" />
+      <workItem from="1733444026251" duration="255000" />
+      <workItem from="1733705267992" duration="6404000" />
+      <workItem from="1733729329754" duration="1615000" />
+      <workItem from="1733788194085" duration="1503000" />
+      <workItem from="1733807546036" duration="3444000" />
+      <workItem from="1733885373168" duration="2322000" />
+      <workItem from="1733979935539" duration="9511000" />
+      <workItem from="1734051994688" duration="9968000" />
+      <workItem from="1734314331845" duration="6411000" />
+      <workItem from="1734327828052" duration="5231000" />
+      <workItem from="1734399890048" duration="11958000" />
+      <workItem from="1734501222980" duration="3224000" />
+      <workItem from="1734595328421" duration="21000" />
+      <workItem from="1734660500115" duration="4067000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
